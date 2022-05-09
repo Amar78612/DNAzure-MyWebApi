@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cAEMv08OI2rvIbsnzpZD8L1GZD+ue0wlw5r3FT8Z2Mivc6Vscom4+mT2DyXSH2rtW+IdbgjNTGB/nBBDKDi9qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amars\\Downloads\\MyWebApiApp0803\\MyWebApiApp0803-master\\WebApplication22\\WebApplication22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amars\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\Narasimha\source\repos\WebApplication22\WebApplication22\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication22.exe
+C:\Users\Narasimha\source\repos\WebApplication22\WebApplication22\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Narasimha\source\repos\WebApplication22\WebApplication22\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Narasimha\source\repos\WebApplication22\WebApplication22\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication22.dll
+C:\Users\Narasimha\source\repos\WebApplication22\WebApplication22\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication22.deps.json
+C:\Users\Narasimha\source\repos\WebApplication22\WebApplication22\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication22.runtimeconfig.json
+C:\Users\Narasimha\source\repos\WebApplication22\WebApplication22\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication22.pdb
